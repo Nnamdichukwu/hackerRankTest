@@ -1,5 +1,5 @@
 package main
-
+// find the challenge here: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 import (
 	"bufio"
 	"fmt"
