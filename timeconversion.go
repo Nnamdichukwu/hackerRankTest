@@ -1,3 +1,4 @@
+//find the challnge here: https://www.hackerrank.com/challenges/time-conversion/problem
 package main
 
 import (
